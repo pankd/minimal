@@ -14,3 +14,4 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a technique which helps in detecting unauthorized transactions in a users bank account. AI is now being used extensively to solve the various issues that are observed in this domain.
 
+<center><img src="/assets/img/fraud_detection.png"/></center>
