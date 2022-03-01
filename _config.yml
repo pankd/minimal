@@ -1,6 +1,13 @@
-title: Minimal theme
+title: Pankaj Dixit
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://github.com/pankd">GitHub</a>
+  
+  <br>
+  I am a software professional with extensive experience in Embedded domain.
+  I have worked in Audion FW and Storage domain in the past. At present I am
+  working in AI domain.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
